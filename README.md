@@ -7,8 +7,15 @@ Github Pages located [here][page]
 
 
 # Table of Contents <a name="top"></a>
-- How onshape works
-- 
+- OnShape Basics
+    - Sketches
+    - Constraints
+    - Parts
+- Advanced OnShape
+    - Assemblies
+    - Mates
+    - Relations
+- 3D Printing
 
 
 [repo]: 
