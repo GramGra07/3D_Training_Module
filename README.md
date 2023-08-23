@@ -5,14 +5,14 @@ Github Repo located [here][repo]
 
 Github Pages located [here][page]
 
-Start with [OnShape Basics](#basic)
+Start with [OnShape Basics](basics.md)
 
 # Table of Contents <a name="top"></a>
-- OnShape Basics
-    - Sketches
-    - Constraints
-    - Parts
-- Advanced OnShape
+- [OnShape Basics](basics.md)
+    - [Sketches](basics.md#sketch)
+    - [Constraints](basics.md#constrain)
+    - [Parts](basics.md#part)
+- [Advanced OnShape](advancedOnshape.md)
     - Assemblies
     - Mates
     - Relations
