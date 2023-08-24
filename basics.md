@@ -57,6 +57,11 @@ Here is a key going from top to bottom on the constraint toolbar.
 
 A part is almost like a finished creation. You can create multiple parts in order to export them as STL files for 3D printing. Parts are made up of sketches that have been extruded, revolved, or lofted. Parts are the final step in creating a 3D model and putting it all together.
 
+This video will show you more about sketching, constraints, and parts.
+
+
+
+
 [repo]: https://github.com/GramGra07/3D-Training-Module/blob/main/README.md
 [page]: https://gramgra07.github.io/3D-Training-Module/
 [3D]: https://docs.google.com/presentation/d/1MeLkA9mCI4vZMiejlqMZpAhZvbV2ThvSf6oZBzhQGdo/edit#slide=id.g1f87997393_0_782
