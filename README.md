@@ -22,7 +22,7 @@ https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad
     - [Mates][mates]
     - [Relations][relations]
 - [Follow Along][follow]
-- [3D Printing][3DPage]
+- [3D Printing][3D]
 
 [repo]: https://github.com/GramGra07/3D-Training-Module/blob/main/README.md
 [page]: https://gramgra07.github.io/3D-Training-Module/
