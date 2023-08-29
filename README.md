@@ -7,6 +7,11 @@ Github Pages located [here][page]
 
 Start with [OnShape Basics](basics.md)
 
+# Resources
+I still think, even though I created this, that the OnShape tutorials are very extensive and good to learn. Use this almost as a quickstart guide to get you going.
+
+https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad
+
 # Table of Contents <a name="top"></a>
 - [OnShape Basics][basic]
     - [Sketches][sketch]
@@ -17,11 +22,12 @@ Start with [OnShape Basics](basics.md)
     - [Mates][mates]
     - [Relations][relations]
 - [Follow Along][follow]
-- [3D Printing]
+- [3D Printing][3DPage]
 
 
 [repo]: https://github.com/GramGra07/3D-Training-Module/blob/main/README.md
 [page]: https://gramgra07.github.io/3D-Training-Module/
+[3DPage]: 3D_Printing_Basics.md
 [3D]: https://docs.google.com/presentation/d/1MeLkA9mCI4vZMiejlqMZpAhZvbV2ThvSf6oZBzhQGdo/edit#slide=id.g1f87997393_0_782
 [follow]: followAlong.md
 [relations]: advancedOnshape.md#relation
