@@ -59,8 +59,7 @@ A part is almost like a finished creation. You can create multiple parts in orde
 
 This video will show you more about sketching, constraints, and parts.
 
-
-
+[Click here][gDrive] and open the sketches video.
 
 [repo]: https://github.com/GramGra07/3D-Training-Module/blob/main/README.md
 [page]: https://gramgra07.github.io/3D-Training-Module/
@@ -74,3 +73,4 @@ This video will show you more about sketching, constraints, and parts.
 [constrain]:basics.md#constrain
 [sketch]: basics.md#sketch
 [basic]: basics.md
+[gDrive]: https://drive.google.com/drive/folders/1Uytvd03vpVqoOG7LKv7-ee3CknBhoNIM?usp=sharing
